@@ -13,10 +13,11 @@ Includes:
 
 https://github.com/user-attachments/assets/f3d50f09-a848-4e67-906e-60493aad039f
 
+---
+
 ## Play It Online
 
-[sudoku_index.html](https://github.com/user-attachments/files/28994250/sudoku_index.html)
-Open `index.html` in any browser — no installation needed.
+Open [sudoku_index.html](https://github.com/user-attachments/files/28994250/sudoku_index.html) in any browser — no installation needed.
 
 **Features:**
 - 4 difficulty levels: Easy, Medium, Hard, Very Hard
