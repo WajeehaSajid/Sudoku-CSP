@@ -1,9 +1,7 @@
 
 # Sudoku CSP Solver
 
-An AI-powered Sudoku project built for **AI2002 — Artificial Intelligence** at **FAST-NUCES Chiniot-Faisalabad**.
-
-Includes:
+An AI-powered Sudoku project which includes:
 - A **Python CLI solver** using Constraint Satisfaction Problem (CSP) techniques
 - A **playable web UI** where you can solve puzzles yourself — or let the AI solve them for you
 
